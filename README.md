@@ -53,7 +53,10 @@ If you want to improve the code by making changes to it, then either import it a
 # More great tutorials and code samples
 Checkout [this blog] for more "how-to" code samples, tutorials and just info on how to solve problems.
 
+If you like what I am doing, you can [buy me a coffee]
+
 Click on the next link for more info on the 13+ year [software engineering career journey] of the author.
+
 
 [software engineering career journey]: https://mydaytodo.com/the-3-stages-of-a-software-engineering-career/
 [this blog]: https://mydaytodo.com/blog/
@@ -65,3 +68,4 @@ Click on the next link for more info on the 13+ year [software engineering caree
 [H2 Database]: https://www.h2database.com/html/main.html
 [Spring Boot With H2 Database]: https://www.baeldung.com/spring-boot-h2-database
 [My Day To-Do Blog]: https://mydaytodo.com/blog
+[buy me a coffee]: https://www.buymeacoffee.com/bhumansoni
